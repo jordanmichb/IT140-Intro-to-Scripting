@@ -5,4 +5,4 @@ This project is a simple text-based game. There are seven locations that each ha
 
 <b> Getting Started </b>
 
-To play this game, load the code into any program that can run a .py file and run the code.
+To play this game, load the file into any program that can run a .py file and run the code.
